@@ -77,8 +77,8 @@ const allProjects = [
     description: `Built a feature-rich bookmark manager with Next.js 14, Tailwind CSS for a responsive UI. Features include bookmark creation/editing, custom tag categorization, real-time fuzzy search, drag-and-drop reordering, and bulk import/export, demonstrating skills in modern JavaScript and user-focused front-end development.`,
     tech: ['Nextjs', 'Tailwind', 'Framer-motion', 'TSparticles'],
     image: Port,
-    Github: "https://github.com/DeepSwarup/bookmark-manager", 
-    website: 'https://github.com/DeepSwarup/bookmark-manager',
+    Github: "https://github.com/DeepSwarup/deep_portfolio", 
+    website: 'https://deep-portfolio-six.vercel.app/',
   },
 ]
 
