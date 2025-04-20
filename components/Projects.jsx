@@ -83,7 +83,7 @@ const allProjects = [
 ]
 
 const Projects = () => {
-  const [visibleProjects, setVisibleProjects] = useState(8)
+  const [visibleProjects, setVisibleProjects] = useState(4)
   const [expandedProject, setExpandedProject] = useState(null)
 
   const handleCardClick = (project) => {
